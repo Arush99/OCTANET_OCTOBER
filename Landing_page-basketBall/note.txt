@@ -1,4 +1,0 @@
- Brotherina, Myriad Pro
-
- background-color: #f5b53a;
-  color: #fff;
